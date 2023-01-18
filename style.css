@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.accordion-body {
+    text-align: justify;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+}
